@@ -10,5 +10,5 @@ This example shows how you can use the Whadda 3-channel high power MOSFET module
 ![](./wiring_diagram_w_warning.png)
 
 ## Additional information
-  For more information about the Whadda Electronic scale load cell sensor (WPSE471), check the manual available at [whadda.com](https://whadda.com)
+  For more information about the Whadda 3-channel high power MOSFET module (WPM357), check the manual available at [whadda.com](https://whadda.com)
 
